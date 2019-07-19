@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520713278313",
+    "firebase_url": "https://fir-notificationcalismasi.firebaseio.com",
+    "project_id": "fir-notificationcalismasi",
+    "storage_bucket": "fir-notificationcalismasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520713278313:android:20c63d468a850ca3",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotificationcalismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520713278313-34dd8otv6h82c9p0hho2frt6j2ggo2d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasenotificationcalismasi",
+            "certificate_hash": "ea5ba40828deb3046d9a6ca71b92940da03a2183"
+          }
+        },
+        {
+          "client_id": "520713278313-d2fldgp68f9rcdd83fpl6ug6c0hdqemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPKH_9DwVgWqT4rCvr6oBwUk7f48hNLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520713278313-d2fldgp68f9rcdd83fpl6ug6c0hdqemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
